@@ -1,2 +1,3 @@
 # maximals
-site layout
+site lavyout
+https://unterof.github.io/maximals/
